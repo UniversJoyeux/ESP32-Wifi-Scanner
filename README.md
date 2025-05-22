@@ -5,12 +5,6 @@ This example demonstrates how to use the WiFi library to scan available WiFi net
 
 ![](Wifi1.jpg)
 
-#### Using Arduino IDE
-
-* Before Compile/Verify, select the correct board: `Tools -> Board`.
-* Select the COM port: `Tools -> Port: xxx` where the `xxx` is the detected COM port.
-
-#### Using Platform IO
 
 * Select Other Board and Port > AI Thinker ESP32-CAM > COM? Serial Port (USB) > Ok to select the ESP32Cam (? could be any number).
   
