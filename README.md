@@ -12,7 +12,7 @@ This example demonstrates how to use the WiFi library to scan available WiFi net
 ![](Wifi2.jpg)
 
 
-## Example/Log Output
+## Example/Log Output After Uploading the Code
 
 
 ![](Wifi3.jpg)
