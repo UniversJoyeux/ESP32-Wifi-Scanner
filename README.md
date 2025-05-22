@@ -4,9 +4,6 @@ This example demonstrates how to use the WiFi library to scan available WiFi net
 * Go to File>Examples>Wifi>WifiScan
 
 ![](Wifi1.jpg)
-## How to Use Example
-
-* How to install the Arduino IDE: [Install Arduino IDE](https://github.com/espressif/arduino-esp32/tree/master/docs/arduino-ide).
 
 #### Using Arduino IDE
 
