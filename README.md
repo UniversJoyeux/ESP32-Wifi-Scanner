@@ -6,11 +6,18 @@ This example demonstrates how to use the WiFi library to scan available WiFi net
 ![](Wifi1.jpg)
 
 
+
 * Select Other Board and Port > AI Thinker ESP32-CAM > COM? Serial Port (USB) > Ok to select the ESP32Cam (? could be any number).
   
 ![](Wifi2.jpg)
+
+
 ## Example/Log Output
+
+
 ![](Wifi3.jpg)
+
+
 ## Troubleshooting
 
 ***Important: Be sure you're using a good quality USB cable and you have enough power source for your project.***
