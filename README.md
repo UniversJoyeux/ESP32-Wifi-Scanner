@@ -1,7 +1,7 @@
 # ESP32-Wifi-Scanner
 # WiFiScan Example
 This example demonstrates how to use the WiFi library to scan available WiFi networks and print the results.
-Go to File>Examples>Wifi>WifiScan
+* Go to File>Examples>Wifi>WifiScan
 
 ![](Wifi1.jpg)
 ## How to Use Example
