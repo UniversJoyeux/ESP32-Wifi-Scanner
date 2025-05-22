@@ -13,7 +13,7 @@ This example demonstrates how to use the WiFi library to scan available WiFi net
 #### Using Platform IO
 
 * Select the COM port: `Devices` or setting the `upload_port` option on the `platformio.ini` file.
-![](Wifi3.jpg)
+![](Wifi2.jpg)
 ## Example/Log Output
 ![](Wifi3.jpg)
 ## Troubleshooting
