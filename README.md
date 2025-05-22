@@ -1,14 +1,7 @@
 # ESP32-Wifi-Scanner
 # WiFiScan Example
-
 This example demonstrates how to use the WiFi library to scan available WiFi networks and print the results.
-
-## Supported Targets
-
-Currently this example supports the following targets.
-
-| Supported Targets | ESP32 | ESP32-S2 | ESP32-C3 | ESP32-S3 | ESP32-C6 |
-| ----------------- | ----- | -------- | -------- | -------- | -------- |
+Go to File>Examples>Wifi>WifiScan
 
 ## How to Use Example
 
