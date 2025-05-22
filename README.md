@@ -17,7 +17,7 @@ Go to File>Examples>Wifi>WifiScan
 * Select the COM port: `Devices` or setting the `upload_port` option on the `platformio.ini` file.
 
 ## Example/Log Output
-![]()
+![](Wifi3.jpg)
 ## Troubleshooting
 
 ***Important: Be sure you're using a good quality USB cable and you have enough power source for your project.***
