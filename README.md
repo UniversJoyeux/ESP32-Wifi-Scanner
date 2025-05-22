@@ -12,7 +12,8 @@ This example demonstrates how to use the WiFi library to scan available WiFi net
 
 #### Using Platform IO
 
-* Select the COM port: `Devices` or setting the `upload_port` option on the `platformio.ini` file.
+* Select Other Board and Port > AI Thinker ESP32-CAM > COM? Serial Port (USB) > Ok to select the ESP32Cam (? could be any number).
+  
 ![](Wifi2.jpg)
 ## Example/Log Output
 ![](Wifi3.jpg)
