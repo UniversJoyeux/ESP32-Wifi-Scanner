@@ -21,25 +21,9 @@ Go to File>Examples>Wifi>WifiScan
 ## Troubleshooting
 
 ***Important: Be sure you're using a good quality USB cable and you have enough power source for your project.***
-
-* **Programming Fail:** If the programming/flash procedure fails, try to reduce the serial connection speed.
 * **COM port not detected:** Check the USB cable connection and the USB to Serial driver installation.
-
-If the error persist, you can ask help at the official [ESP32 forum](https://esp32.com) or see [Contribute](#contribute).
-
-## Contribute
-
-To know how to contribute to this project, see [How to contribute.](https://github.com/espressif/arduino-esp32/blob/master/CONTRIBUTING.rst)
-
-If you have any **feedback** or **issue** to report on this example/library, please open an issue or fix it by creating a new PR. Contributions are more than welcome!
-
-Before creating a new issue, be sure to try the Troubleshooting and to check if the same issue was already created by someone else.
 
 ## Resources
 
 * Arduino-ESP32 Official Repository: [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32)
 * ESP32 Datasheet: [Link to datasheet](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf)
-* ESP32-S2 Datasheet: [Link to datasheet](https://www.espressif.com/sites/default/files/documentation/esp32-s2_datasheet_en.pdf)
-* ESP32-C3 Datasheet: [Link to datasheet](https://www.espressif.com/sites/default/files/documentation/esp32-c3_datasheet_en.pdf)
-* ESP32-C6 Datasheet: [Link to datasheet](https://www.espressif.com/sites/default/files/documentation/esp32-c6_datasheet_en.pdf)
-* Official ESP-IDF documentation: [ESP-IDF](https://idf.espressif.com)
